@@ -4,8 +4,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Luara&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na ICR Cobrança<br/> Eu sou desenvolvedora Front-End</p>
-
 --- 
 
 ### 🏆 GitHub Profile Trophy
