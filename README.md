@@ -30,3 +30,7 @@
     alt="Número de visitantes no perfil"
   />
 </p>
+
+---
+
+![snake gif](https://github.com/imLuaraICR/imLuaraICR/blob/output/github-contribution-grid-snake.gif)
