@@ -5,7 +5,7 @@
 
 --- 
 
-### 🏆 GitHub Profile Trophy
+### 🏆 Meus Troféus
 
 <p align="center">
   <a
